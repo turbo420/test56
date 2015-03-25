@@ -19,7 +19,7 @@
 
 $file = "/var/www/USB.zip";
 
-/* test tes test  */
+/* love it now  */
 $br = (php_sapi_name() == "cli")? "\n":"<br />\n";
 
 /* Check if extension is loaded and return all functions */
