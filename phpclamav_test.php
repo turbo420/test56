@@ -19,7 +19,7 @@
 
 $file = "/var/www/USB.zip";
 
-/* Get running environnement (CLI or not) */
+/*  */
 $br = (php_sapi_name() == "cli")? "\n":"<br />\n";
 
 /* Check if extension is loaded and return all functions */
